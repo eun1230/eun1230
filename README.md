@@ -4,8 +4,8 @@
 안녕하세요! 저는 새로운 기술과 도전을 사랑하는 꿈꾸는 개발자입니다. 소프트웨어 개발을 통해 세상을 더 나은 곳으로 만들고자 하는 열정을 가지고 있습니다.
 
 ## 📫 연락처
-- **이메일**: [your-email@example.com](eb.e30.200@gmail.com)
-- **블로그**: [your-blog](https://sinabro-123-0.tistory.com/)
+- **이메일**: [eb.e30.200@gmail.com](eb.e30.200@gmail.com)
+- **블로그**: [https://sinabro-123-0.tistory.com](https://sinabro-123-0.tistory.com/)
 
 ---
 
